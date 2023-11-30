@@ -744,4 +744,8 @@ figure:hover img {
   display: flex;
   justify-content: end;
   margin-top: 5%;
+  align-items: end;
+}
+.names p{
+  text-align: right;
 }
