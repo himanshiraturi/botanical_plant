@@ -739,3 +739,9 @@ figure:hover img {
 .imgSize{
   width: 250px;
 }
+
+.names{
+  display: flex;
+  justify-content: end;
+  margin-top: 5%;
+}
